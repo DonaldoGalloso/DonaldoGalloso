@@ -1,5 +1,4 @@
-# 💫 About Me:
-✅ i'm Currently working as a Front-End developer 💻<br>✅ I'm working on my Projects ⌨️<br>✅ Studying IOS development  📱<br>✅ looking for new experiences and opportunities ⭐️
+✅ i'm Currently working as a SalesForce developer 💻
 
 
 ## 🌐 Socials:
